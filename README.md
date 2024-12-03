@@ -35,21 +35,22 @@ My name is Hao Pham. I am a Web Developer.<br>
 
 <br>
 
-  
-<a href="https://github.com/vietnh1009/ASCII-generator/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Haofphm4426&repo=Real-Estate-Management-System-Webiste&theme=merko" />
-</a>
-<a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Haofphm4426&repo=Lamborghini-Web&theme=gruvbox" />
-</a>    
-<a href="https://github.com/vietnh1009/QuickDraw/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Haofphm4426&repo=CV&theme=radical" />
-</a> 
 <a href="https://github.com/vietnh1009/Tetris-deep-Q-learning-pytorch/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Haofphm4426&repo=ToDoList-app&theme=cobalt" />
 </a>
+<a href="https://github.com/vietnh1009/ASCII-generator/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Haofphm4426&repo=Real-Estate-Management-System-Webiste&theme=merko" />
+</a>
+<a href="https://github.com/vietnh1009/QuickDraw/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Haofphm4426&repo=CV&theme=radical" />
+</a> 
+<a href="https://github.com/vietnh1009/Super-mario-bros-A3C-pytorch/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Haofphm4426&repo=Lamborghini-Web&theme=gruvbox" />
+</a>    
+
+
 
