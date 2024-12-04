@@ -12,7 +12,7 @@
 - :school: I am a `Fresher` Web Developer
 - :technologist: I love using Software as a solution for every `Problem`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY CV](https://cv-haofphm4426s-projects.vercel.app/).
 <br>
 
 <h2 align="left">🛠 Technologies and Tools 🛠</h2>
